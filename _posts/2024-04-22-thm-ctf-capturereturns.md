@@ -1,7 +1,7 @@
 ---
 title: CTF tryhackme capturereturns
 categories: [CTF, THM, Hard]
-tags: [ftp, http, ssh, linux_privesc]
+tags: [http, python, CAPTCHA]
 date: 2024-04-22 08:00 +0700
 ---
 
