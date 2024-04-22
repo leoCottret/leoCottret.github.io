@@ -1,9 +1,13 @@
 ---
-title: boilerctf2
-categories: [CTF, THM]
+title: CTF tryhackme boilerctf2
+categories: [CTF, THM, Medium]
 tags: [ftp, http, ssh, linux_privesc]
 date: 2024-03-06 08:00 +0700
 ---
+
+In this room, we'll see an interesting medium level CTF from tryhackme
+
+[https://tryhackme.com/r/room/boilerctf2](https://tryhackme.com/r/room/boilerctf2)
 
 ## nmap
 - `sudo nmap -sS --min-rate=500 -T4 -sV --version-all -O --script=default -r -vv $IPTA -oN nmap_full_$IPTA -p- -Pn`
