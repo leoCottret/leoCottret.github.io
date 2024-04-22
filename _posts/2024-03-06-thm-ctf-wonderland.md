@@ -1,6 +1,6 @@
 ---
 title: CTF tryhackme wonderland
-categories: [CTF, THM]
+categories: [CTF, THM, Medium]
 tags: [http, ssh, steganography, linux_privesc, reverse_engineering]
 date: 2024-03-06 08:00 +0700
 ---
