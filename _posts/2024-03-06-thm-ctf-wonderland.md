@@ -5,7 +5,7 @@ tags: [http, ssh, steganography, linux_privesc, reverse_engineering]
 date: 2024-03-06 08:00 +0700
 ---
 
-In this room, we'll see to avoid rabbit holes
+In this room, we'll see how to avoid rabbit holes
 
 [https://tryhackme.com/r/room/wonderland](https://tryhackme.com/r/room/wonderland)
 
