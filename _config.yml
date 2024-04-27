@@ -34,9 +34,8 @@ social:
   name: Léo COTTRET
   links:
     # The first element serves as the copyright owner's link
-    - https://github.com/LeoCottret # change to your github homepage
-    # Uncomment below to add more social links
-    - https://www.linkedin.com/in/l%C3%A9o-cottret-11a216184
+    - https://github.com/LeoCottret
+    - https://linkedin.com/in/leo-cottret
 
 google_site_verification: # fill in to your verification string
 
